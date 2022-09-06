@@ -19,7 +19,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] 1. The Terminal
 [x] 2. Git
 [x] 3. Rails Console
-[ ] 4. Models
+[~] 4. Models
 [ ] 5. Controllers
 [ ] 6. Views
 [ ] 7. Assets
